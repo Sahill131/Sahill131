@@ -1,11 +1,11 @@
 👋 I'm Sahil, a Full Stack Developer passionate about building scalable and real-world applications.<br><br>
-<div style="margin-left:20px">
+<div style="margin-left:120px">
 • 🌐 MERN Stack Developer (MongoDB, Express.js, React.js, Node.js)<br>
 • ⚡ Strong foundation in JavaScript, REST APIs & Backend Architecture<br>
 • 🐍 Python Developer with problem-solving mindset<br>
-;• 💻 Developed "ServiceHub" – a full-stack platform connecting users with service providers<br>
+• 💻 Developed "ServiceHub" – a full-stack platform connecting users with service providers<br>
 • 🎨 Focused on clean, responsive & user-centric UI/UX<br>
- 🚀 Performance-driven approach with scalability in mind<br>
+• 🚀 Performance-driven approach with scalability in mind<br>
 • 📈 Continuously learning and adapting to new technologies<br><br>
 
 💼 Open to internships & freelance opportunities<br>
