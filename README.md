@@ -1,5 +1,17 @@
 # 💫 About Me:
-Hii , I Am Sahil Tiwari Aspiring Software Engineer | Full-Stack Developer | Build Crazy And Amazing Website For Brands<br>
+👋 Welcome to my profile! I'm Sahil, a passionate developer building real-world solutions:
+
+🌐 Full Stack Web Developer (MERN Stack)
+⚡ Strong in JavaScript & Backend Logic
+🐍 Python Developer
+💻 Built "ServiceHub" – a platform connecting users with service providers
+🎨 Creating modern & responsive UI designs
+🚀 Focused on real-world projects & problem solving
+📈 Always learning and leveling up
+
+💼 Open for internships & freelance opportunities
+
+📫 Let's connect and build something impactful together!
 
 
 # 💻 Tech Stack:
