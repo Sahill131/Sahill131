@@ -1,17 +1,17 @@
-# 💫 About Me:
-👋 Welcome to my profile! I'm Sahil, a passionate developer building real-world solutions:
 
-🌐 Full Stack Web Developer (MERN Stack)
-⚡ Strong in JavaScript & Backend Logic
-🐍 Python Developer
-💻 Built "ServiceHub" – a platform connecting users with service providers
-🎨 Creating modern & responsive UI designs
-🚀 Focused on real-world projects & problem solving
-📈 Always learning and leveling up
+👋 Welcome to my profile! I'm Sahil, a passionate developer building real-world solutions: <br>
 
-💼 Open for internships & freelance opportunities
+🌐 Full Stack Web Developer (MERN Stack) <br>
+⚡ Strong in JavaScript & Backend Logic <br>
+🐍 Python Developer <br>
+💻 Built "ServiceHub" – a platform connecting users with service providers <br>
+🎨 Creating modern & responsive UI designs <br>
+🚀 Focused on real-world projects & problem solving <br>
+📈 Always learning and leveling up <br>
 
-📫 Let's connect and build something impactful together!
+💼 Open for internships & freelance opportunities <br>
+
+📫 Let's connect and build something impactful together! <br>
 
 
 # 💻 Tech Stack:
